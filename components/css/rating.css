@@ -23,7 +23,7 @@
   
   /* Hover state of the stars */
   .rating-stars ul > li.star.hover > i.fa {
-    color:#FFCC36;
+    color:darkblue;
   }
   
   /* Selected state of the stars */
